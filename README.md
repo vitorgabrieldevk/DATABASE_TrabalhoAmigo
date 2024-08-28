@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42b883&height=120&section=header"/>
 
-# Base de Dados - Trabalho Amigo
+<h1 style="text-align: center;">Base de Dados - Trabalho Amigo</h1>
 
-**Controle de Versões do Banco de Dados do Projeto Trabalho Amigo.**
+<h4 style="text-align: center;">Controle de Versões do Banco de Dados do Projeto Trabalho Amigo.</h4>
 
 
 <div align="center">
